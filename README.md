@@ -1,5 +1,7 @@
 # 👋 Ei! Soc l'Aleix Bueno
 
+<img src="image-2.png" alt="Aleix treballant en informàtica" width="180">
+
 ### 💻 Aprenent de SMX · Programació · Emprenedoria digital
 
 M'interessa la tecnologia, sobretot la part de crear coses i trobar solucions als problemes. Vaig començar SMX amb ganes d'aprendre a fer pàgines web i programar, i cada vegada m'atrau més la idea de combinar aquests coneixements amb projectes digitals propis.
@@ -30,11 +32,13 @@ Actualment estic aprenent i experimentant amb diferents eines informàtiques, me
 ## 🚀 Projectes i experiències
 
 ### 🛍️ Botiga en línia amb WordPress
+
 Una de les pràctiques que més m'ha agradat de SMX ha estat crear un e-commerce amb WordPress. Em va interessar especialment la part de construir una botiga en línia i veure com es pot donar forma a una idea digital.
 
 🔗 [Consultar el repositori de la pràctica](https://github.com/automatizacionyt40-crypto/primer_repositori)
 
 ### 📂 Primer repositori amb GitHub
+
 Un espai per practicar amb Git, GitHub i la documentació en Markdown, i per anar reunint els meus treballs i aprenentatges.
 
 🔗 [Veure el meu repositori](https://github.com/automatizacionyt40-crypto/primer_repositori)

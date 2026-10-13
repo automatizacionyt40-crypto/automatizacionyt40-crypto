@@ -1,38 +1,57 @@
-# 👋 Hola! Soc Aleix Bueno
+# 👋 Ei! Soc l'Aleix Bueno
 
-Estudiant del cicle formatiu de grau mitjà de **Sistemes Microinformàtics i Xarxes (SMX)**. Passionat per la tecnologia, el maquinari, el programari i l'administració de xarxes.
+### 💻 Aprenent de SMX · Programació · Emprenedoria digital
 
----
+M'interessa la tecnologia, sobretot la part de crear coses i trobar solucions als problemes. Vaig començar SMX amb ganes d'aprendre a fer pàgines web i programar, i cada vegada m'atrau més la idea de combinar aquests coneixements amb projectes digitals propis.
 
-## 🙋‍♂️ Sobre mi
-
-- 🏫 **Estudis:** Estudiant de SMX.
-- 🎯 **Objectiu professional:** Especialitzar-me en administració de sistemes, xarxes i ciberseguretat.
-- 💡 **Interessos:** Muntatge d'equips, sistemes operatius (Linux/Windows), automatització i virtualització.
+Actualment estic aprenent i experimentant amb diferents eines informàtiques, mentre exploro el món del comerç electrònic i les possibilitats de la intel·ligència artificial.
 
 ---
 
-## 🛠️ Competències i Tecnologies
+## 🔍 Què m'interessa?
 
-### 💻 Sistemes Operatius
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+- 🧑‍💻 **Programació i webs:** aprendre a crear pàgines web i desenvolupar projectes propis.
+- 🛠️ **Resolució de problemes:** investigar, buscar solucions i entendre per què passen les coses.
+- 🛒 **E-commerce:** explorar el dropshipping i la creació de botigues en línia amb Shopify.
+- 🤖 **Intel·ligència artificial:** descobrir com es pot aplicar als negocis digitals.
 
-### ⚙️ Eines de treball
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+## 🧰 Eines amb què treballo a SMX
+
+| Àmbit | Eines |
+|---|---|
+| Sistemes operatius | Windows, Ubuntu |
+| Virtualització | VirtualBox |
+| Xarxes | Cisco Packet Tracer |
+| Desenvolupament | Visual Studio Code |
+| Control de versions | Git i GitHub |
+
+*Continuo aprenent i ampliant els meus coneixements a través de les pràctiques del cicle.*
+
+## 🚀 Projectes i experiències
+
+### 🛍️ Botiga en línia amb WordPress
+Una de les pràctiques que més m'ha agradat de SMX ha estat crear un e-commerce amb WordPress. Em va interessar especialment la part de construir una botiga en línia i veure com es pot donar forma a una idea digital.
+
+🔗 [Consultar el repositori de la pràctica](https://github.com/automatizacionyt40-crypto/primer_repositori)
+
+### 📂 Primer repositori amb GitHub
+Un espai per practicar amb Git, GitHub i la documentació en Markdown, i per anar reunint els meus treballs i aprenentatges.
+
+🔗 [Veure el meu repositori](https://github.com/automatizacionyt40-crypto/primer_repositori)
+
+## 🎯 Cap a on vull anar?
+
+El meu objectiu és arribar a ser autònom i crear diferents botigues de dropshipping amb Shopify, treballant per aconseguir que siguin negocis rendibles i amb un bon volum de vendes.
+
+Vull continuar aprenent sobre tecnologia, comerç electrònic i intel·ligència artificial per poder desenvolupar les meves pròpies idees i convertir-les en projectes reals.
+
+## ⚡ Una mica més sobre mi
+
+- 🏋️ M'agrada anar al gimnàs.
+- 🤝 Gaudeixo passant temps amb els amics.
+- 🔎 Quan tinc un problema, prefereixo investigar i buscar possibles solucions.
+- 💡 Sempre tinc curiositat per descobrir noves maneres de fer les coses.
 
 ---
 
-## 📚 Projectes
-
-- 📁 **[primer_repositori](https://github.com/automatizacionyt40-crypto/primer_repositori):** Pràctiques d'ús de Git, GitHub i edició de documentació en Markdown.
-
----
-
-## 📬 Contacte
-
-- 💼 **Perfil de GitHub:** [github.com/automatizacionyt40-crypto](https://github.com/automatizacionyt40-crypto)
+*Aprenent avui, construint els meus projectes de demà.* 🚀
